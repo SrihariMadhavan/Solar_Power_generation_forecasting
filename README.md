@@ -6,5 +6,5 @@ The objective of this project is to develop an accurate and reliable time series
 The dataset contains information related to approximately 1 month performance and output of a solar power plant captured over 15-minute intervals, including various attributes such as date and time stamps, weather conditions, power generation readings, and possibly other relevant data points. Analyzing this dataset can help users gain insights into the efficiency and reliability of solar power generation under different weather conditions and times of the day.
 
 #Data Sources:
-1. https://www.kaggle.com/datasets/anikannal/solar-power-generation-data?select=Plant_1_Generation_Data.csv 
-2. https://www.wunderground.com/history/daily/in/mumbai/VABB/date/2020-5-15
+1) https://www.kaggle.com/datasets/anikannal/solar-power-generation-data?select=Plant_1_Generation_Data.csv 
+2) https://www.wunderground.com/history/daily/in/mumbai/VABB/date/2020-5-15
